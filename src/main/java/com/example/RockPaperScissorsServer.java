@@ -5,7 +5,7 @@ import java.net.*;
 import java.util.*;
 
 public class RockPaperScissorsServer {
-    private static final int PORT = 6081;
+    private static final int PORT = 6082;
     private static List<ClientHandler> clients = new ArrayList<>();
     private static Map<ClientHandler, String> choices = new HashMap<>();
 

@@ -9,7 +9,7 @@ import java.net.*;
 
 public class HelloWorldSwing {
     private static final String SERVER_ADDRESS = "localhost";
-    private static final int SERVER_PORT = 6081;
+    private static final int SERVER_PORT = 6082;
 
     private JFrame frame;
     private JButton rockButton;
